@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query_set>
+  <query id="CS14_ENG_006_b74b7465-eddf-3f08-b3a9-2611ccfac374">
+    <name>Deborah Borda</name>
+    <docid>LTW_ENG_20090717.0078</docid>
+    <beg>4745</beg>
+    <end>4757</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>org:top_members_employees</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+</query_set>

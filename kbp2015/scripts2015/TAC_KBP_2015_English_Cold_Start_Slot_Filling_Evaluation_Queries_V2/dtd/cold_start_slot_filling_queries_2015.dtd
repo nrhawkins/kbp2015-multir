@@ -1,0 +1,10 @@
+<!ELEMENT query_set (query+) >
+<!ELEMENT query   (name,docid,beg,end,enttype,slot0,slot1?) >
+<!ELEMENT name    (#PCDATA) >
+<!ELEMENT docid   (#PCDATA) >
+<!ELEMENT beg     (#PCDATA) >
+<!ELEMENT end     (#PCDATA) >
+<!ELEMENT enttype (#PCDATA) >
+<!ELEMENT slot0   (#PCDATA) >
+<!ELEMENT slot1   (#PCDATA) >
+<!ATTLIST query id ID #REQUIRED >

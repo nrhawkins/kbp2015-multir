@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query_set>
+  <query id="CS14_ENG_001">
+    <name>Geimer</name>
+    <docid>AFP_ENG_20091026.0021</docid>
+    <beg>600</beg>
+    <end>606</end>
+    <enttype>PER</enttype>
+    <slot0>per:origin</slot0>
+    <slot>per:origin</slot>
+    <slot1>per:statesorprovinces_of_residence</slot1>
+  </query>
+</query_set>

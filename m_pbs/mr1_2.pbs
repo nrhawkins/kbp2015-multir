@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd /homes/gws/nhawkins/KBP2015-Slotfilling-Multir
+
+sbt "run-main
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBP2015MultirExtractor
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/run/round1/queries2015_r1.xml 0 cs
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/run/round1/relDocs2015 
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/run/round1/mr1_1 round1 1 1"
+

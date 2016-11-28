@@ -1,0 +1,11 @@
+tar zxvf backups.tgz
+
+OR
+ 
+gunzip -c backups.tgz | tar xvf -
+
+OR
+
+tar zxvf backups.tgz -C /tmp/data
+
+ls -l /tmp/data

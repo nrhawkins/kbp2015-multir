@@ -1,0 +1,18 @@
+On August 31, we submitted 4 runs to the KBP Cold Start Slot Filling competition, whose results will probably be shared in a couple of 
+months.  Our 4 runs are 3 single system runs of Openie, Implie, and Multir (PER-LOC relations only, based on supervised training), and a 
+run which combines output from those 3 systems.
+
+The Cold Start Slot Filling variant involves filling PER, ORG, and GPE slots for ~10k queries based on a corpus of ~50k 
+never-before-seen documents, 80% of which are news forum docs and 20% newswire.  There are 2 rounds of slot-filling for about half of 
+the queries.  Together the two rounds represent a pseudo-slot; for example, round1 asks for residents of San Diego and round2 asks for 
+organizations founded by those residents of San Diego.
+
+The combined system produced 24328 slot fills for round 1, and 8224 for round 2.
+
+For the single systems, all 3 systems started with the original set of ~10k queries,
+and the second round queries are based on the results only from the slot fills from each individual system (not from all 3, as is the 
+case for the combined system).
+
+Openie produced 2569 slot fills for round 1, and 477 for round 2.
+Implie produced 17337 slot fills for round 1, and 1962 for round 2.
+Multir produced 7459 slot fills for round 1, and 904 for round 2.

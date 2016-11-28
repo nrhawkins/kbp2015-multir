@@ -1,0 +1,12 @@
+sbt "run-main
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBP2015MultirExtractorCorpusSerialized
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/allQueries.xml 0 cs
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/relDocs_kbp2015_allQueries_serial 
+runOutput_allQueries_serial_timing round1 0 0 /projects/WebWare6/KBP_2015/corpus/serialized/"
+
+sbt "run-main
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBP2015MultirExtractorCorpusSerialized
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/allQueries.xml 0 cs
+/homes/gws/nhawkins/KBP2015-Slotfilling-Multir/relDocs_kbp2015_allQueries_serial 
+runOutput_allQueries_serial_timing_tanzania round1 234 11 /projects/WebWare6/KBP_2015/corpus/serialized/"
+

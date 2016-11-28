@@ -1,0 +1,2 @@
+sbt "run-main edu.washington.cs.knowitall.kbp2014.multir.slotfiller.SerializeColdStartCorpus 0 0"
+

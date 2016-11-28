@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query_set>
+  <query id="CS14_ENG_002_53ea98e5-fc6c-319f-b2a5-537d814e292c">
+    <name>Donald Walter Davis</name>
+    <docid>NYT_ENG_20100918.0020</docid>
+    <beg>3009</beg>
+    <end>3028</end>
+    <enttype>per</enttype>
+    <slot>per:employee_or_member_of</slot>
+    <slot0>gpe:births_in_city</slot0>
+    <slot1>per:employee_or_member_of</slot1>
+  </query>
+  <query id="CS14_ENG_002_bb93619f-af9b-3ae8-961a-5759f0e842b1">
+    <name>John David Alexander</name>
+    <docid>NYT_ENG_20100730.0177</docid>
+    <beg>1308</beg>
+    <end>1328</end>
+    <enttype>per</enttype>
+    <slot>per:employee_or_member_of</slot>
+    <slot0>gpe:births_in_city</slot0>
+    <slot1>per:employee_or_member_of</slot1>
+  </query>
+  <query id="CS14_ENG_002_ffe6ef72-450d-3791-8ceb-45236a09b54e">
+    <name>Carleen Maley Hutchins</name>
+    <docid>LTW_ENG_20090817.0007</docid>
+    <beg>4141</beg>
+    <end>4163</end>
+    <enttype>per</enttype>
+    <slot>per:employee_or_member_of</slot>
+    <slot0>gpe:births_in_city</slot0>
+    <slot1>per:employee_or_member_of</slot1>
+  </query>
+  <query id="CS14_ENG_015_82633d80-5fc9-3287-bfd9-591a6e9b5606">
+    <name>Mary Fallin</name>
+    <docid>APW_ENG_20100826.0128</docid>
+    <beg>3289</beg>
+    <end>3300</end>
+    <enttype>per</enttype>
+    <slot>per:spouse</slot>
+    <slot0>gpe:births_in_stateorprovince</slot0>
+    <slot1>per:spouse</slot1>
+  </query>
+  <query id="CS14_ENG_031_076bf342-a4a6-38d3-8da0-fe569b6706b6">
+    <name>Roslyn Howard</name>
+    <docid>WPB_ENG_20100123.0011</docid>
+    <beg>4436</beg>
+    <end>4449</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_07e1f9b7-d7fa-36b4-b564-a65eea04b514">
+    <name>Audrey Toguchi</name>
+    <docid>APW_ENG_20091011.0538</docid>
+    <beg>532</beg>
+    <end>546</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_20b302cd-8564-341f-802a-1f8d400c4bd4">
+    <name>Leonard Freeman</name>
+    <docid>NYT_ENG_20101028.0198</docid>
+    <beg>3292</beg>
+    <end>3307</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_20c4b69d-1458-3d88-adb1-3e83ac70d697">
+    <name>Marcos</name>
+    <docid>AFP_ENG_20100511.0638</docid>
+    <beg>2385</beg>
+    <end>2391</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_433633b4-5396-3053-895e-5fbd73767356">
+    <name>Daniel Kahikina Akaka</name>
+    <docid>APW_ENG_20091011.0538</docid>
+    <beg>2294</beg>
+    <end>2315</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_450c0bf9-3172-3829-b173-fcdb68a48dd4">
+    <name>Simpson</name>
+    <docid>eng-NG-31-140122-8657652</docid>
+    <beg>2631</beg>
+    <end>2638</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_582b59a0-7fe8-3d95-baf1-cf5102c77dcb">
+    <name>Charles Djou</name>
+    <docid>APW_ENG_20101031.0491</docid>
+    <beg>5780</beg>
+    <end>5792</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_874df95a-d5b7-34ec-bb8d-6c8dc240c65c">
+    <name>Robert L. Howard Jr.</name>
+    <docid>WPB_ENG_20100123.0011</docid>
+    <beg>4390</beg>
+    <end>4410</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_8a932602-8c9b-3539-b350-f4568d29a3db">
+    <name>Geimer</name>
+    <docid>AFP_ENG_20091026.0021</docid>
+    <beg>600</beg>
+    <end>606</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_8c871217-eaf5-3860-b1cd-98fe9b628f9a">
+    <name>Paige</name>
+    <docid>NYT_ENG_20100328.0108</docid>
+    <beg>1765</beg>
+    <end>1770</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_9b55541e-6e0a-3e0a-baba-7553dacb038d">
+    <name>Duke Aiona</name>
+    <docid>WPB_ENG_20100622.0103</docid>
+    <beg>2195</beg>
+    <end>2205</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_c749540e-3217-39fa-b205-d7db6e34bee7">
+    <name>James MacArthur</name>
+    <docid>APW_ENG_20091204.0111</docid>
+    <beg>1460</beg>
+    <end>1475</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_c7cf3393-b73f-3d1a-b227-b0ec5bc855da">
+    <name>Hiram Leong Fong</name>
+    <docid>CNA_ENG_20101013.0008</docid>
+    <beg>2359</beg>
+    <end>2375</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_d43b7394-64db-30b4-98a1-11218c78c4fb">
+    <name>Dan Inouye</name>
+    <docid>APW_ENG_20100523.0667</docid>
+    <beg>3044</beg>
+    <end>3054</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_d78d9e60-78bc-38d2-ac13-7d1cf544b30e">
+    <name>Linda Lingle</name>
+    <docid>APW_ENG_20090715.1423</docid>
+    <beg>528</beg>
+    <end>540</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_d944195a-7057-3286-ad4a-cffa6fc5a609">
+    <name>Shane Germann</name>
+    <docid>APW_ENG_20100903.0119</docid>
+    <beg>1736</beg>
+    <end>1749</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_031_f882fa64-0739-3f07-959f-982b4fb96383">
+    <name>Barack Obama</name>
+    <docid>APW_ENG_20091227.0046</docid>
+    <beg>3650</beg>
+    <end>3662</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:residents_of_stateorprovince</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_037_009e8920-e960-3ac8-a63a-c5d5c370e1d8">
+    <name>Ruhakana Rugunda</name>
+    <docid>APW_ENG_20090706.1338</docid>
+    <beg>469</beg>
+    <end>485</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_0915696e-20be-3690-b535-a07701e5a2f9">
+    <name>Judith Nabakooba</name>
+    <docid>APW_ENG_20100630.0039</docid>
+    <beg>3137</beg>
+    <end>3153</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_09f94779-c0db-31c3-a79b-6133a4f03601">
+    <name>Al Shabab</name>
+    <docid>XIN_ENG_20101103.0317</docid>
+    <beg>808</beg>
+    <end>817</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_0d64cdb3-be87-387e-89ba-3f157f5c11d0">
+    <name>Kizza Besigye</name>
+    <docid>AFP_ENG_20100419.0309</docid>
+    <beg>1576</beg>
+    <end>1589</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_1146ddb6-3561-3081-bb89-c76b3c75e4a0">
+    <name>Ronald Ssekandi</name>
+    <docid>XIN_ENG_20100303.0156</docid>
+    <beg>158</beg>
+    <end>173</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_13949f59-f624-3900-bd2f-98c13b106a38">
+    <name>Syda Bbumba</name>
+    <docid>XIN_ENG_20100628.0176</docid>
+    <beg>1751</beg>
+    <end>1762</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_37356ac4-5446-3547-8cdd-be3693a34e53">
+    <name>Milton Obote</name>
+    <docid>XIN_ENG_20090915.0172</docid>
+    <beg>2714</beg>
+    <end>2726</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_39693ec0-a604-355d-b058-5e2789e63689">
+    <name>Gideon Byamugisha</name>
+    <docid>APW_ENG_20100323.0627</docid>
+    <beg>363</beg>
+    <end>380</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_66f7d8ec-4fb1-3dfe-9e02-a911cfd4e15e">
+    <name>Henn</name>
+    <docid>APW_ENG_20100713.0032</docid>
+    <beg>629</beg>
+    <end>633</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_6b618f02-6f22-3430-8326-83d39c579ee0">
+    <name>Kale Kayihura</name>
+    <docid>AFP_ENG_20100317.0249</docid>
+    <beg>3539</beg>
+    <end>3552</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_7651809d-6ff0-3dec-8a0c-ded59e5fe2ca">
+    <name>Kusuro</name>
+    <docid>XIN_ENG_20100727.0344</docid>
+    <beg>2207</beg>
+    <end>2213</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_7cef99c1-e0dd-3cb5-973d-4b1287f2a333">
+    <name>Timothy Kalegyira</name>
+    <docid>AFP_ENG_20100805.0485</docid>
+    <beg>377</beg>
+    <end>394</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_887186a6-d268-388b-b5e8-5c54814232a8">
+    <name>Godfrey Binaisa</name>
+    <docid>XIN_ENG_20100805.0157</docid>
+    <beg>206</beg>
+    <end>221</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_a9dc2e69-0d40-31aa-8ad4-d885bfde7062">
+    <name>Arthur Mugisha</name>
+    <docid>eng-NG-31-142506-10058764</docid>
+    <beg>1341</beg>
+    <end>1355</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_be705268-e64a-3fd3-9334-a47eb29c7916">
+    <name>Marc Gedopt</name>
+    <docid>XIN_ENG_20101124.0168</docid>
+    <beg>405</beg>
+    <end>416</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_c01edf02-9c0f-3b09-9f04-0b6778b778ab">
+    <name>Juvenal Niyonguruza</name>
+    <docid>XIN_ENG_20100219.0089</docid>
+    <beg>2556</beg>
+    <end>2575</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_cbf0f18c-d573-3eb5-a2d2-e654c09326c3">
+    <name>Al Qaeda-inspired Shebab</name>
+    <docid>AFP_ENG_20100715.0304</docid>
+    <beg>191</beg>
+    <end>215</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_d3dbf06e-3148-3757-8289-b04c95eed13c">
+    <name>Peter Erlinder</name>
+    <docid>NYT_ENG_20100617.0101</docid>
+    <beg>174</beg>
+    <end>188</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_e2b1c352-8824-3f2c-a640-b91e311355db">
+    <name>Idi Amin</name>
+    <docid>CNA_ENG_20100727.0002</docid>
+    <beg>1581</beg>
+    <end>1589</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_f821de0a-714f-38e1-97b0-9078aa283c8d">
+    <name>Frederick Balagadde</name>
+    <docid>AFP_ENG_20100210.0195</docid>
+    <beg>3250</beg>
+    <end>3269</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_037_fbc0462f-2bef-3544-ae3e-2870422eb919">
+    <name>Yoweri Museveni</name>
+    <docid>APW_ENG_20100531.0568</docid>
+    <beg>261</beg>
+    <end>276</end>
+    <enttype>per</enttype>
+    <slot>per:title</slot>
+    <slot0>gpe:residents_of_country</slot0>
+    <slot1>per:title</slot1>
+  </query>
+  <query id="CS14_ENG_048_606fa2d1-d85f-3bf9-b201-d1b366e919bf">
+    <name>Bill McGill</name>
+    <docid>NYT_ENG_20090620.0028</docid>
+    <beg>5736</beg>
+    <end>5747</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_048_836a20e8-6583-358c-b11c-57585aaea8e6">
+    <name>Robert Clark</name>
+    <docid>NYT_ENG_20100318.0014</docid>
+    <beg>1138</beg>
+    <end>1150</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_050_a843b2c1-bd48-3b38-bd99-b0e39025f129">
+    <name>Richard Shelby</name>
+    <docid>eng-NG-31-126840-8220913</docid>
+    <beg>2781</beg>
+    <end>2795</end>
+    <enttype>per</enttype>
+    <slot>per:top_member_employee_of</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:top_member_employee_of</slot1>
+  </query>
+  <query id="CS14_ENG_050_b907c5d1-93f5-3a3b-94c0-8894e9db9421">
+    <name>Stan Pate</name>
+    <docid>eng-NG-31-126840-8220913</docid>
+    <beg>2416</beg>
+    <end>2425</end>
+    <enttype>per</enttype>
+    <slot>per:top_member_employee_of</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:top_member_employee_of</slot1>
+  </query>
+  <query id="CS14_ENG_050_c459ee2c-43ef-328a-a795-a6cf4a773eea">
+    <name>Robert Bentley</name>
+    <docid>APW_ENG_20100529.0633</docid>
+    <beg>5284</beg>
+    <end>5298</end>
+    <enttype>per</enttype>
+    <slot>per:top_member_employee_of</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:top_member_employee_of</slot1>
+  </query>
+  <query id="CS14_ENG_062_1d3cc51a-b52d-3d0a-b17a-cc6d230584a8">
+    <name>Keflezighi</name>
+    <docid>XIN_ENG_20091101.0153</docid>
+    <beg>456</beg>
+    <end>466</end>
+    <enttype>per</enttype>
+    <slot>per:origin</slot>
+    <slot0>gpe:births_in_country</slot0>
+    <slot1>per:origin</slot1>
+  </query>
+  <query id="CS14_ENG_071_63e4e9a0-8a33-39f3-866c-ccce5d573e55">
+    <name>Miguel Delibes Setien</name>
+    <docid>NYT_ENG_20100318.0053</docid>
+    <beg>2380</beg>
+    <end>2401</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:births_in_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_076_2586fbd7-d562-31af-9282-fbedc0ef8bec">
+    <name>Louis XIV</name>
+    <docid>AFP_ENG_20091018.0422</docid>
+    <beg>444</beg>
+    <end>453</end>
+    <enttype>per</enttype>
+    <slot>per:organizations_founded</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:organizations_founded</slot1>
+  </query>
+  <query id="CS14_ENG_076_67bbc3b9-36e1-3305-b351-ec6ae4cedfc7">
+    <name>Jean-Jacques Aillagon</name>
+    <docid>AFP_ENG_20091018.0422</docid>
+    <beg>1150</beg>
+    <end>1171</end>
+    <enttype>per</enttype>
+    <slot>per:organizations_founded</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:organizations_founded</slot1>
+  </query>
+  <query id="CS14_ENG_076_a8c3990e-8c61-3859-abc1-727b3cd655a7">
+    <name>Robert Todd Williams</name>
+    <docid>eng-NG-31-126958-8238517</docid>
+    <beg>7802</beg>
+    <end>7822</end>
+    <enttype>per</enttype>
+    <slot>per:organizations_founded</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:organizations_founded</slot1>
+  </query>
+  <query id="CS14_ENG_076_fb897aeb-fcbf-3289-8849-5b05e27c3d14">
+    <name>Aillagon</name>
+    <docid>AFP_ENG_20090910.0610</docid>
+    <beg>3438</beg>
+    <end>3446</end>
+    <enttype>per</enttype>
+    <slot>per:organizations_founded</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:organizations_founded</slot1>
+  </query>
+  <query id="CS14_ENG_082_37c3ca9c-be18-3472-8f1b-5dc227f68de2">
+    <name>Kate Kaiser</name>
+    <docid>eng-NG-31-148121-10557935</docid>
+    <beg>1426</beg>
+    <end>1437</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_476e3cd1-4179-3ada-9622-c06e83cf9a9e">
+    <name>Joey Votto</name>
+    <docid>APW_ENG_20100921.0117</docid>
+    <beg>2748</beg>
+    <end>2758</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_48a4e3ce-4587-321a-b06f-cbd0195f0958">
+    <name>Otto Naumann</name>
+    <docid>NYT_ENG_20091219.0030</docid>
+    <beg>1437</beg>
+    <end>1449</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_4baa7ae1-1400-31b2-b45a-e7563c62fa36">
+    <name>Darlene Superville</name>
+    <docid>APW_ENG_20100212.0617</docid>
+    <beg>5543</beg>
+    <end>5561</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_562ce0ac-ddb2-388a-b355-4c28b04fb873">
+    <name>Laynce Nix</name>
+    <docid>APW_ENG_20090826.0197</docid>
+    <beg>5388</beg>
+    <end>5398</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_5b99c7ca-86f1-3a19-9ff6-25e2835d7605">
+    <name>Becca Saunders</name>
+    <docid>APW_ENG_20100502.0334</docid>
+    <beg>3275</beg>
+    <end>3289</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_657892e1-8aaa-3ffb-9534-90c6a0905d6e">
+    <name>Beth Fouhy</name>
+    <docid>APW_ENG_20100212.0617</docid>
+    <beg>5449</beg>
+    <end>5459</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_6c63af49-404e-3577-9957-af8456b0e86a">
+    <name>Rembert Weakland</name>
+    <docid>APW_ENG_20100423.0239</docid>
+    <beg>2125</beg>
+    <end>2141</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_83c5ac50-24fe-39e3-a118-a2d8cc772375">
+    <name>Scott Rolen</name>
+    <docid>APW_ENG_20100921.0117</docid>
+    <beg>2763</beg>
+    <end>2774</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_8fc81222-8194-35af-a30b-9cb18d48d5c7">
+    <name>Mike</name>
+    <docid>eng-NG-31-107586-11996821</docid>
+    <beg>852</beg>
+    <end>856</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_9d892cc1-81ec-3e2e-b25d-54a66eba3700">
+    <name>Tom Barrett</name>
+    <docid>eng-NG-31-126132-9095123</docid>
+    <beg>864</beg>
+    <end>875</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_a42558ae-4603-31d9-b989-f19135fb6877">
+    <name>Matthew Lee</name>
+    <docid>APW_ENG_20100212.0617</docid>
+    <beg>5527</beg>
+    <end>5538</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_a44a8ec4-d436-334d-a60c-d20cf90601fe">
+    <name>Howard Cunningham</name>
+    <docid>NYT_ENG_20101019.0151</docid>
+    <beg>597</beg>
+    <end>614</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_acfebb8a-feac-3a4b-820c-3962b1e4e4f1">
+    <name>Lawrence Murphy</name>
+    <docid>AFP_ENG_20100326.0373</docid>
+    <beg>2993</beg>
+    <end>3008</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_afa48a4c-5bca-3ab0-9968-0229ead79b07">
+    <name>Rembert G. Weakland</name>
+    <docid>NYT_ENG_20100422.0117</docid>
+    <beg>1105</beg>
+    <end>1124</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_bfe567e7-1336-3f29-91b8-7af9d05698f5">
+    <name>Petropoulos</name>
+    <docid>bolt-eng-DF-170-181125-9130076</docid>
+    <beg>4988</beg>
+    <end>4999</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_c8bbfe7d-a06e-3ad8-b5a9-59970a292cba">
+    <name>Katy Neubauer</name>
+    <docid>APW_ENG_20100502.0334</docid>
+    <beg>3252</beg>
+    <end>3265</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_082_dd10f591-a5ef-37a7-a14b-6d0d616455b9">
+    <name>Brandon Jennings</name>
+    <docid>APW_ENG_20091220.0086</docid>
+    <beg>4054</beg>
+    <end>4070</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_088_06f5167b-57ed-3e8c-a3ca-f259b111d581">
+    <name>Dennis</name>
+    <docid>NYT_ENG_20100323.0010</docid>
+    <beg>3108</beg>
+    <end>3114</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_0907425a-a62d-38dc-bf04-1e9149545474">
+    <name>Dan Gelber</name>
+    <docid>NYT_ENG_20100506.0239</docid>
+    <beg>2479</beg>
+    <end>2489</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_0f1cecf0-75f3-3333-ac5c-390af83a295c">
+    <name>Graser</name>
+    <docid>NYT_ENG_20100629.0168</docid>
+    <beg>2197</beg>
+    <end>2203</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_1414f91d-4133-340e-a5d3-0445e574d17f">
+    <name>Richard Unger</name>
+    <docid>NYT_ENG_20090914.0201</docid>
+    <beg>802</beg>
+    <end>815</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_1a5b45bc-271c-3831-a2bb-45dd60294681">
+    <name>George LeMieux</name>
+    <docid>NYT_ENG_20101211.0024</docid>
+    <beg>1075</beg>
+    <end>1089</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_1bcdf9e5-7f17-3aff-a4f0-7a0661d9711a">
+    <name>David Kotok</name>
+    <docid>WPB_ENG_20100526.0047</docid>
+    <beg>4955</beg>
+    <end>4966</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_2b67ca46-49d2-3eb2-8d55-7ca5e0168300">
+    <name>Eniel Polynice</name>
+    <docid>NYT_ENG_20100511.0008</docid>
+    <beg>3678</beg>
+    <end>3692</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_49a557b5-424b-3706-aedc-ff3f678d6548">
+    <name>Sammy Riccobono</name>
+    <docid>NYT_ENG_20100406.0007</docid>
+    <beg>3608</beg>
+    <end>3623</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_4e3b4406-ca8f-3653-b61c-58adff9f8e7c">
+    <name>Nick</name>
+    <docid>eng-NG-31-132402-9441065</docid>
+    <beg>1944</beg>
+    <end>1948</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_5bf268c4-b314-3767-9263-6bf37fb551d1">
+    <name>Art Nadel</name>
+    <docid>NYT_ENG_20091227.0055</docid>
+    <beg>520</beg>
+    <end>529</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_5eed1380-4ece-31f6-a98b-aafa831de920">
+    <name>Klement</name>
+    <docid>NYT_ENG_20100213.0140</docid>
+    <beg>1527</beg>
+    <end>1534</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_aa6abb53-61cf-369c-ad1b-af823470301b">
+    <name>Lamar Brantley</name>
+    <docid>APW_ENG_20091204.0039</docid>
+    <beg>4261</beg>
+    <end>4275</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_b3cb3505-7986-3644-b059-6c996fafc714">
+    <name>Keith Fitzgerald</name>
+    <docid>NYT_ENG_20100715.0186</docid>
+    <beg>5274</beg>
+    <end>5290</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_d3c2978d-1be5-32b6-a455-b28ba2e4062d">
+    <name>Gary Kompothecras</name>
+    <docid>NYT_ENG_20100610.0181</docid>
+    <beg>1542</beg>
+    <end>1559</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_088_d7ed22a6-5cbf-3698-aa34-b94594cab51e">
+    <name>Mike Haridopolos</name>
+    <docid>NYT_ENG_20101211.0024</docid>
+    <beg>1119</beg>
+    <end>1135</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_089_3cc4578f-2596-3dbd-8dcc-311a42ee9425">
+    <name>Pena Soltren</name>
+    <docid>APW_ENG_20100318.1227</docid>
+    <beg>3843</beg>
+    <end>3855</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:births_in_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_089_abdae67c-ce19-31d9-ad8c-0207e69535f8">
+    <name>Yzaguirre</name>
+    <docid>NYT_ENG_20101004.0044</docid>
+    <beg>2181</beg>
+    <end>2190</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:births_in_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_090_aad27ba1-7b6d-398a-b174-9624b4e2fd86">
+    <name>London</name>
+    <docid>NYT_ENG_20100926.0026</docid>
+    <beg>5417</beg>
+    <end>5423</end>
+    <enttype>gpe</enttype>
+    <slot>gpe:employees_or_members</slot>
+    <slot0>per:cities_of_residence</slot0>
+    <slot1>gpe:employees_or_members</slot1>
+  </query>
+  <query id="CS14_ENG_106_6c3fcb6e-aba6-3a9e-8f02-8feeb2e3eaa2">
+    <name>Keith Stag</name>
+    <docid>NYT_ENG_20090923.0034</docid>
+    <beg>4971</beg>
+    <end>4981</end>
+    <enttype>per</enttype>
+    <slot>per:city_of_birth</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:city_of_birth</slot1>
+  </query>
+  <query id="CS14_ENG_112_2a619e5d-c79b-3efb-83ce-2e2b658b0a4c">
+    <name>Schultz</name>
+    <docid>NYT_ENG_20101209.0149</docid>
+    <beg>1167</beg>
+    <end>1174</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_112_ec0317e6-f3a3-3337-9ce9-76de2971a4eb">
+    <name>Sean O'Neill</name>
+    <docid>APW_ENG_20091021.1617</docid>
+    <beg>395</beg>
+    <end>407</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_113_1fcc3f69-3f53-3040-8bf3-664a08a99baa">
+    <name>Frank Nunes</name>
+    <docid>APW_ENG_20090828.1244</docid>
+    <beg>615</beg>
+    <end>626</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_113_47992390-475f-3965-8755-3c926d700c6d">
+    <name>Robin Sells</name>
+    <docid>APW_ENG_20090929.1106</docid>
+    <beg>415</beg>
+    <end>426</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_113_6146ebda-8510-3ef3-8e10-a4c3b0e559d4">
+    <name>Jenkins</name>
+    <docid>LTW_ENG_20090821.0126</docid>
+    <beg>785</beg>
+    <end>792</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_113_67d4a7bf-4c3d-3393-bd58-9aafdf7558dd">
+    <name>Bill Kohanek</name>
+    <docid>APW_ENG_20090827.1196</docid>
+    <beg>456</beg>
+    <end>468</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_113_9645eb6e-4827-386f-949c-ea0e87bbc2e1">
+    <name>William Kohanek</name>
+    <docid>APW_ENG_20090827.1255</docid>
+    <beg>654</beg>
+    <end>669</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_113_b6cb75e0-794c-34af-9f7d-c11feb27779c">
+    <name>Roger Powell</name>
+    <docid>APW_ENG_20090828.0171</docid>
+    <beg>591</beg>
+    <end>603</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_113_dade3d67-b12e-38f3-ab89-b885a3f2d653">
+    <name>Fiore</name>
+    <docid>XIN_ENG_20090821.0169</docid>
+    <beg>776</beg>
+    <end>781</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_113_e2c1305c-5e4c-3990-ae0a-7298610ebd51">
+    <name>Tom Monson</name>
+    <docid>AFP_ENG_20090824.0417</docid>
+    <beg>1314</beg>
+    <end>1324</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_113_ef15130a-e93c-3fce-a571-1fabe5e9110b">
+    <name>Eric Burciaga</name>
+    <docid>APW_ENG_20090827.0033</docid>
+    <beg>608</beg>
+    <end>621</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_120_3022ecc2-6836-3572-b946-f2b06f06d438">
+    <name>Winnetka</name>
+    <docid>NYT_ENG_20091015.0026</docid>
+    <beg>4133</beg>
+    <end>4141</end>
+    <enttype>gpe</enttype>
+    <slot>gpe:births_in_city</slot>
+    <slot0>per:cities_of_residence</slot0>
+    <slot1>gpe:births_in_city</slot1>
+  </query>
+  <query id="CS14_ENG_120_3da46682-ecd1-3629-b03c-264bf86dd4e2">
+    <name>Rapid City</name>
+    <docid>APW_ENG_20100203.1126</docid>
+    <beg>2132</beg>
+    <end>2142</end>
+    <enttype>gpe</enttype>
+    <slot>gpe:births_in_city</slot>
+    <slot0>per:cities_of_residence</slot0>
+    <slot1>gpe:births_in_city</slot1>
+  </query>
+  <query id="CS14_ENG_121_4aaf755b-a5b6-3b89-9d0b-ab3dc1f1500c">
+    <name>Beijing</name>
+    <docid>AFP_ENG_20100617.0568</docid>
+    <beg>1361</beg>
+    <end>1368</end>
+    <enttype>gpe</enttype>
+    <slot>gpe:deaths_in_city</slot>
+    <slot0>per:cities_of_residence</slot0>
+    <slot1>gpe:deaths_in_city</slot1>
+  </query>
+  <query id="CS14_ENG_135_2ff1fb08-584f-3514-82e9-05e4948c9198">
+    <name>ALLISON STACEY COWLES</name>
+    <docid>NYT_ENG_20100425.0170</docid>
+    <beg>58</beg>
+    <end>79</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:deaths_in_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_135_797766c9-855e-347c-9a7e-ff3f62123700">
+    <name>Van Breda Kolff</name>
+    <docid>eng-NG-31-126958-8238186</docid>
+    <beg>696</beg>
+    <end>711</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:deaths_in_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_135_f163b756-b846-3de5-85a0-97ec37e2d4ba">
+    <name>JOHN BABCOCK</name>
+    <docid>NYT_ENG_20100224.0034</docid>
+    <beg>58</beg>
+    <end>70</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:deaths_in_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_136_5e89e9f9-ba5c-3e8d-9e6b-4419add59092">
+    <name>Clementi</name>
+    <docid>WPB_ENG_20100303.0068</docid>
+    <beg>1046</beg>
+    <end>1054</end>
+    <enttype>per</enttype>
+    <slot>per:organizations_founded</slot>
+    <slot0>gpe:deaths_in_city</slot0>
+    <slot1>per:organizations_founded</slot1>
+  </query>
+  <query id="CS14_ENG_136_d0fb70a2-8ce0-31f9-baf9-fec0b359b553">
+    <name>THEODORE NIERENBERG</name>
+    <docid>NYT_ENG_20090804.0029</docid>
+    <beg>58</beg>
+    <end>77</end>
+    <enttype>per</enttype>
+    <slot>per:organizations_founded</slot>
+    <slot0>gpe:deaths_in_city</slot0>
+    <slot1>per:organizations_founded</slot1>
+  </query>
+  <query id="CS14_ENG_139_c7370334-ea65-3abc-8281-4c8c045801e2">
+    <name>Stimpson</name>
+    <docid>APW_ENG_20090919.0292</docid>
+    <beg>1878</beg>
+    <end>1886</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_139_d6701c17-c74a-3a06-aaad-94de8faac5a3">
+    <name>Mike Santo</name>
+    <docid>NYT_ENG_20100203.0153</docid>
+    <beg>1754</beg>
+    <end>1764</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_139_f841b540-6a2e-3398-8edd-7758f94ce2d2">
+    <name>McCroskey</name>
+    <docid>APW_ENG_20100920.0667</docid>
+    <beg>894</beg>
+    <end>903</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_141_01a6bbe4-e25d-33d1-85cc-5f7c3d8e4b53">
+    <name>Woods</name>
+    <docid>AFP_ENG_20091212.0319</docid>
+    <beg>3061</beg>
+    <end>3066</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_0a9016db-fb5e-316d-9738-c4b3a2fda5bd">
+    <name>Steve Ware</name>
+    <docid>bolt-eng-DF-170-181122-8813895</docid>
+    <beg>1208</beg>
+    <end>1218</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_188a4d54-9cc2-34db-a377-d9b7eefd442e">
+    <name>Michael Rafii</name>
+    <docid>WPB_ENG_20100818.0024</docid>
+    <beg>4707</beg>
+    <end>4720</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_1caa9449-4205-34fa-8b0e-ac8d8c148e15">
+    <name>Serge Duarte</name>
+    <docid>eng-NG-31-142685-8718738</docid>
+    <beg>3665</beg>
+    <end>3677</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_1cd71520-459d-3481-8cd0-8b5297f0283d">
+    <name>Darren Sproles</name>
+    <docid>NYT_ENG_20091030.0034</docid>
+    <beg>873</beg>
+    <end>887</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_1fdd94b9-a175-354e-8dac-e58a62f19bc0">
+    <name>Lieu</name>
+    <docid>NYT_ENG_20100130.0022</docid>
+    <beg>1499</beg>
+    <end>1503</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_23ddd07c-2e15-3085-9df1-7d5d012a5fbe">
+    <name>Miller</name>
+    <docid>APW_ENG_20091229.0427</docid>
+    <beg>3435</beg>
+    <end>3441</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_3b2b6695-c45e-3e2d-8fb4-9e4af68c0d37">
+    <name>James Pluth</name>
+    <docid>LTW_ENG_20091218.0024</docid>
+    <beg>5738</beg>
+    <end>5749</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_46073873-073c-30e5-bbc0-870bce630de5">
+    <name>Linda Barufaldi</name>
+    <docid>NYT_ENG_20100105.0177</docid>
+    <beg>5454</beg>
+    <end>5469</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_5d6d7bba-089f-3ca6-9450-c6242504ab99">
+    <name>Yolanda Lugo Jimenez</name>
+    <docid>APW_ENG_20101208.0776</docid>
+    <beg>392</beg>
+    <end>412</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_5da3b011-8139-3c1c-bce3-93d475adace2">
+    <name>Edgar Hopida</name>
+    <docid>APW_ENG_20101105.0952</docid>
+    <beg>3138</beg>
+    <end>3150</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_66e5609d-d009-3b12-a88b-ecaa4a786efd">
+    <name>Morris Casuto</name>
+    <docid>eng-NG-31-142144-8684370</docid>
+    <beg>1892</beg>
+    <end>1905</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_6e76f79b-9296-314f-a6c0-d144706aaeb5">
+    <name>Maurice Jones-Drew</name>
+    <docid>NYT_ENG_20091030.0034</docid>
+    <beg>929</beg>
+    <end>947</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_7181fa4d-a162-310a-92d5-9f572e9e04ef">
+    <name>Rob Molt</name>
+    <docid>APW_ENG_20100126.0030</docid>
+    <beg>1990</beg>
+    <end>1998</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_7c586eae-4904-3156-9f30-178bd7ac9ef6">
+    <name>Alex Ching</name>
+    <docid>NYT_ENG_20100602.0222</docid>
+    <beg>2771</beg>
+    <end>2781</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_8bcf20c6-e107-3844-a619-400a864afa4b">
+    <name>Jim Pea</name>
+    <docid>NYT_ENG_20101207.0149</docid>
+    <beg>4107</beg>
+    <end>4114</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_97269646-5cda-3ea3-a34a-ebeaaed641f8">
+    <name>Lalanne</name>
+    <docid>NYT_ENG_20090825.0003</docid>
+    <beg>3984</beg>
+    <end>3991</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_9c168471-c2cd-3e66-ae21-40acab2da841">
+    <name>Paul S. Aisen</name>
+    <docid>NYT_ENG_20100817.0129</docid>
+    <beg>2045</beg>
+    <end>2058</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_a6cccb3d-de67-3851-979f-a3de59c22bf7">
+    <name>Kevin Rooney</name>
+    <docid>APW_ENG_20090923.0482</docid>
+    <beg>735</beg>
+    <end>747</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_ae2a1feb-4ef4-32ff-b930-76aafef19ede">
+    <name>Lynch</name>
+    <docid>eng-NG-31-140128-9881879</docid>
+    <beg>1663</beg>
+    <end>1668</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_ce4ff314-99f5-3ea6-838d-9531ca0ee28a">
+    <name>Boyd</name>
+    <docid>NYT_ENG_20100418.0117</docid>
+    <beg>4481</beg>
+    <end>4485</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_cff19b14-619f-33f6-a052-1cba7c6c2e3f">
+    <name>Roger Hedgecock</name>
+    <docid>bolt-eng-DF-199-193234-6490152</docid>
+    <beg>3808</beg>
+    <end>3823</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_d5a5972e-8f8c-3ba0-80b8-c75d6cb274af">
+    <name>Jehad Serwan Mostafa</name>
+    <docid>WPB_ENG_20100805.0064</docid>
+    <beg>1484</beg>
+    <end>1504</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_d7e69871-4971-3267-b122-9677057d4d0c">
+    <name>James Kevin McCarthy</name>
+    <docid>NYT_ENG_20100913.0004</docid>
+    <beg>4950</beg>
+    <end>4970</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_d9969030-4322-30c5-90db-61b1c61a0341">
+    <name>Walter Shimoon</name>
+    <docid>APW_ENG_20101216.0898</docid>
+    <beg>1324</beg>
+    <end>1338</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_dee917bb-4056-3b6e-9870-cebd2dd66c7c">
+    <name>Johnson</name>
+    <docid>NYT_ENG_20090610.0219</docid>
+    <beg>417</beg>
+    <end>424</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_e8f44bdf-87c9-3619-a1a8-64ac44bfbded">
+    <name>Jacques Cesaire</name>
+    <docid>APW_ENG_20100116.0072</docid>
+    <beg>1588</beg>
+    <end>1603</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_ec241cff-ca3c-3c6f-a441-dbab767fa5b9">
+    <name>Buzbee</name>
+    <docid>APW_ENG_20101001.0575</docid>
+    <beg>2688</beg>
+    <end>2694</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_f655c4a3-57ef-333f-9299-f2b8d65da827">
+    <name>Denise Ducheny</name>
+    <docid>LTW_ENG_20091009.0121</docid>
+    <beg>4130</beg>
+    <end>4144</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_f8cabfac-3a3d-36c5-a733-427c32c50c62">
+    <name>Rob Davis</name>
+    <docid>NYT_ENG_20100404.0060</docid>
+    <beg>309</beg>
+    <end>318</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_141_f9bd0300-e27c-32a7-898a-f1fdafb49520">
+    <name>Casey McGehee</name>
+    <docid>APW_ENG_20100821.0129</docid>
+    <beg>2492</beg>
+    <end>2505</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_148_4f4de361-5552-3473-9580-4630a7e65934">
+    <name>Stanley Paul Jones</name>
+    <docid>WPB_ENG_20100526.0056</docid>
+    <beg>3400</beg>
+    <end>3418</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:births_in_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_148_daab33c4-abbe-3a89-9579-2f01bec2040f">
+    <name>John Griffith Shaffer</name>
+    <docid>WPB_ENG_20100406.0051</docid>
+    <beg>2288</beg>
+    <end>2309</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_death</slot>
+    <slot0>gpe:births_in_city</slot0>
+    <slot1>per:date_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_162_6b5f9e83-a857-3cce-ae78-c49a4b0c9601">
+    <name>Baton Rouge</name>
+    <docid>eng-NG-31-126958-8238204</docid>
+    <beg>1844</beg>
+    <end>1855</end>
+    <enttype>gpe</enttype>
+    <slot>gpe:headquarters_in_city</slot>
+    <slot0>per:city_of_death</slot0>
+    <slot1>gpe:headquarters_in_city</slot1>
+  </query>
+  <query id="CS14_ENG_170_050f72be-4533-3241-9c5f-e0949afdd4e2">
+    <name>Flores</name>
+    <docid>eng-NG-31-104869-8882705</docid>
+    <beg>1321</beg>
+    <end>1327</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_170_1b28c007-f23d-351c-8cd2-883ad9d848bb">
+    <name>Hector</name>
+    <docid>eng-NG-31-142685-8718744</docid>
+    <beg>667</beg>
+    <end>673</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_170_1efb3a69-0a7e-3ce7-9ca0-ca3da6723149">
+    <name>Kevin O'Connell</name>
+    <docid>NYT_ENG_20090715.0212</docid>
+    <beg>1890</beg>
+    <end>1905</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_170_a147f1dc-29d5-3698-bb58-d3cb0fd09b85">
+    <name>Fletcher</name>
+    <docid>WPB_ENG_20101013.0025</docid>
+    <beg>4308</beg>
+    <end>4316</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_170_da0eb70b-0786-31e9-a521-f183ef17ccb4">
+    <name>Burts</name>
+    <docid>APW_ENG_20101208.0209</docid>
+    <beg>2740</beg>
+    <end>2745</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_170_eab75e9a-78e2-3495-a6cb-c0d1c7f5f333">
+    <name>Mitchell</name>
+    <docid>NYT_ENG_20100106.0052</docid>
+    <beg>4657</beg>
+    <end>4665</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_170_f17604cc-b10f-39a4-9bec-4c69d5154938">
+    <name>Norma Elizabeth Ochoa</name>
+    <docid>LTW_ENG_20091021.0129</docid>
+    <beg>3140</beg>
+    <end>3161</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_177_4946fc84-18fc-32d1-8ab0-972472bdd3d9">
+    <name>Del Bosco</name>
+    <docid>NYT_ENG_20100201.0007</docid>
+    <beg>715</beg>
+    <end>724</end>
+    <enttype>per</enttype>
+    <slot>per:origin</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:origin</slot1>
+  </query>
+  <query id="CS14_ENG_177_7284ee1a-c3b0-3114-8c9b-3a3e6e3b0bb7">
+    <name>Sheryl Miller</name>
+    <docid>NYT_ENG_20100507.0089</docid>
+    <beg>3661</beg>
+    <end>3674</end>
+    <enttype>per</enttype>
+    <slot>per:origin</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:origin</slot1>
+  </query>
+  <query id="CS14_ENG_177_741063bd-3019-3606-887c-87f10ec0c3ed">
+    <name>Lyall</name>
+    <docid>NYT_ENG_20100507.0089</docid>
+    <beg>2872</beg>
+    <end>2877</end>
+    <enttype>per</enttype>
+    <slot>per:origin</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:origin</slot1>
+  </query>
+  <query id="CS14_ENG_177_c5184f6c-ea00-3c8d-9b53-247be634dc88">
+    <name>Chris Del Bosco</name>
+    <docid>NYT_ENG_20100201.0007</docid>
+    <beg>571</beg>
+    <end>586</end>
+    <enttype>per</enttype>
+    <slot>per:origin</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:origin</slot1>
+  </query>
+  <query id="CS14_ENG_177_d0e5f4ba-ab62-3dd6-aec2-d025f112bf02">
+    <name>Vonn</name>
+    <docid>NYT_ENG_20100401.0014</docid>
+    <beg>2726</beg>
+    <end>2730</end>
+    <enttype>per</enttype>
+    <slot>per:origin</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:origin</slot1>
+  </query>
+  <query id="CS14_ENG_192_a932223d-3221-3e93-ba37-8bd17e07ca2e">
+    <name>Augusta</name>
+    <docid>NYT_ENG_20100327.0125</docid>
+    <beg>8673</beg>
+    <end>8680</end>
+    <enttype>gpe</enttype>
+    <slot>gpe:residents_of_city</slot>
+    <slot0>per:city_of_birth</slot0>
+    <slot1>gpe:residents_of_city</slot1>
+  </query>
+  <query id="CS14_ENG_195_38968109-6eb4-3e88-b5d2-83505e2c5aa5">
+    <name>Osvaldo Orellana</name>
+    <docid>APW_ENG_20090925.0011</docid>
+    <beg>2171</beg>
+    <end>2187</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_195_8811f1c2-1000-3b5e-a161-17a046f2e680">
+    <name>Gina M. Chaney</name>
+    <docid>eng-NG-31-142509-10061293</docid>
+    <beg>2947</beg>
+    <end>2961</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_195_d9079fc1-2d03-3f8e-85df-da8098050d1a">
+    <name>Patricia Gross</name>
+    <docid>eng-NG-31-142509-10061293</docid>
+    <beg>2988</beg>
+    <end>3002</end>
+    <enttype>per</enttype>
+    <slot>per:cause_of_death</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:cause_of_death</slot1>
+  </query>
+  <query id="CS14_ENG_196_bcbbc247-7a6f-35b3-b2ae-4c5d5210faa5">
+    <name>JOE L. BROWN</name>
+    <docid>NYT_ENG_20100819.0120</docid>
+    <beg>58</beg>
+    <end>70</end>
+    <enttype>per</enttype>
+    <slot>per:stateorprovince_of_birth</slot>
+    <slot0>gpe:deaths_in_city</slot0>
+    <slot1>per:stateorprovince_of_birth</slot1>
+  </query>
+  <query id="CS14_ENG_200_2029e8a4-c886-3c3d-be93-78281e0f596c">
+    <name>Pina Bausch</name>
+    <docid>NYT_ENG_20090630.0103</docid>
+    <beg>180</beg>
+    <end>191</end>
+    <enttype>per</enttype>
+    <slot>per:alternate_names</slot>
+    <slot0>gpe:deaths_in_city</slot0>
+    <slot1>per:alternate_names</slot1>
+  </query>
+  <query id="CS14_ENG_210_7f82f3f4-98db-3260-9ec3-c2c6e5ac6db5">
+    <name>David Bryant</name>
+    <docid>APW_ENG_20100404.0164</docid>
+    <beg>220</beg>
+    <end>232</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:deaths_in_stateorprovince</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_210_9422eb39-7994-3ce8-bbfd-73f4f31b37dc">
+    <name>David Iredale</name>
+    <docid>AFP_ENG_20091030.0544</docid>
+    <beg>616</beg>
+    <end>629</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:deaths_in_stateorprovince</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_210_a27ace32-50d3-347b-b933-b251bca9aff1">
+    <name>Paul Gallen</name>
+    <docid>AFP_ENG_20100707.0349</docid>
+    <beg>2002</beg>
+    <end>2013</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:deaths_in_stateorprovince</slot0>
+    <slot1>per:age</slot1>
+  </query>
+  <query id="CS14_ENG_215_928b7e56-8a82-3710-9674-7751b52137c0">
+    <name>Redding</name>
+    <docid>eng-NG-31-139120-8641459</docid>
+    <beg>2728</beg>
+    <end>2735</end>
+    <enttype>per</enttype>
+    <slot>per:spouse</slot>
+    <slot0>gpe:deaths_in_city</slot0>
+    <slot1>per:spouse</slot1>
+  </query>
+  <query id="CS14_ENG_217_6f6a8b71-4501-3a33-be0c-2ba84de5645f">
+    <name>Robert Stephen Ingersoll</name>
+    <docid>NYT_ENG_20100828.0096</docid>
+    <beg>2536</beg>
+    <end>2560</end>
+    <enttype>per</enttype>
+    <slot>per:schools_attended</slot>
+    <slot0>gpe:births_in_city</slot0>
+    <slot1>per:schools_attended</slot1>
+  </query>
+  <query id="CS14_ENG_225_3172614a-e70e-3b8a-b497-db496dc54a69">
+    <name>Anton Reinert</name>
+    <docid>NYT_ENG_20100623.0205</docid>
+    <beg>1172</beg>
+    <end>1185</end>
+    <enttype>per</enttype>
+    <slot>per:top_member_employee_of</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:top_member_employee_of</slot1>
+  </query>
+  <query id="CS14_ENG_225_395c2ce1-a834-3721-b070-97806515347d">
+    <name>Robin Smith Swanberg</name>
+    <docid>NYT_ENG_20091223.0028</docid>
+    <beg>2440</beg>
+    <end>2460</end>
+    <enttype>per</enttype>
+    <slot>per:top_member_employee_of</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:top_member_employee_of</slot1>
+  </query>
+  <query id="CS14_ENG_225_42424791-7eac-3d81-8072-2b27119397a9">
+    <name>Moynihan</name>
+    <docid>NYT_ENG_20101014.0182</docid>
+    <beg>4378</beg>
+    <end>4386</end>
+    <enttype>per</enttype>
+    <slot>per:top_member_employee_of</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:top_member_employee_of</slot1>
+  </query>
+  <query id="CS14_ENG_225_881f3395-fe08-3a25-804a-1657917a7290">
+    <name>Jim Faherty</name>
+    <docid>LTW_ENG_20090625.0008</docid>
+    <beg>738</beg>
+    <end>749</end>
+    <enttype>per</enttype>
+    <slot>per:top_member_employee_of</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:top_member_employee_of</slot1>
+  </query>
+  <query id="CS14_ENG_225_c3336e97-b9e1-3878-9945-951f480db303">
+    <name>Alex</name>
+    <docid>NYT_ENG_20091109.0181</docid>
+    <beg>1686</beg>
+    <end>1690</end>
+    <enttype>per</enttype>
+    <slot>per:top_member_employee_of</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:top_member_employee_of</slot1>
+  </query>
+  <query id="CS14_ENG_225_c42886d2-6ac8-3a62-8ae3-4cde70076c82">
+    <name>Diana Chapman Walsh</name>
+    <docid>NYT_ENG_20100425.0170</docid>
+    <beg>787</beg>
+    <end>806</end>
+    <enttype>per</enttype>
+    <slot>per:top_member_employee_of</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:top_member_employee_of</slot1>
+  </query>
+  <query id="CS14_ENG_226_b23cef2a-ea56-3d54-a45d-c905b36020e9">
+    <name>Sirhan</name>
+    <docid>LTW_ENG_20091103.0097</docid>
+    <beg>58</beg>
+    <end>64</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_226_e3249d79-fbb5-331e-bddd-786970aa9e46">
+    <name>Spector</name>
+    <docid>APW_ENG_20090904.1291</docid>
+    <beg>518</beg>
+    <end>525</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_227_6e7d1f46-b72a-39ba-9217-d7839aa0a82e">
+    <name>Alesia Ranney-Marinelli</name>
+    <docid>NYT_ENG_20100414.0157</docid>
+    <beg>3511</beg>
+    <end>3534</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_227_c284c677-f4c9-31ca-a137-27099745a8b5">
+    <name>Christine Johnson</name>
+    <docid>NYT_ENG_20090810.0189</docid>
+    <beg>2240</beg>
+    <end>2257</end>
+    <enttype>per</enttype>
+    <slot>per:charges</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:charges</slot1>
+  </query>
+  <query id="CS14_ENG_241_113a9060-318f-3edb-9fcc-44bb6c2a3bc8">
+    <name>Bin Adam</name>
+    <docid>eng-NG-31-141808-8670829</docid>
+    <beg>2058</beg>
+    <end>2066</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_birth</slot>
+    <slot0>gpe:births_in_country</slot0>
+    <slot1>per:date_of_birth</slot1>
+  </query>
+  <query id="CS14_ENG_241_19b0b9eb-feb6-3967-ab42-eabb47afa47a">
+    <name>Robin Y. Reyna</name>
+    <docid>eng-NG-31-128618-9338707</docid>
+    <beg>1110</beg>
+    <end>1124</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_birth</slot>
+    <slot0>gpe:births_in_country</slot0>
+    <slot1>per:date_of_birth</slot1>
+  </query>
+  <query id="CS14_ENG_241_1e5fb213-0f27-3d59-996e-ccf623818f06">
+    <name>Naren Patel</name>
+    <docid>AFP_ENG_20091130.0415</docid>
+    <beg>655</beg>
+    <end>666</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_birth</slot>
+    <slot0>gpe:births_in_country</slot0>
+    <slot1>per:date_of_birth</slot1>
+  </query>
+  <query id="CS14_ENG_241_9ee59c0b-c31b-39e5-99b9-7168f9e8725d">
+    <name>Johnston</name>
+    <docid>eng-NG-31-128618-9338707</docid>
+    <beg>1210</beg>
+    <end>1218</end>
+    <enttype>per</enttype>
+    <slot>per:date_of_birth</slot>
+    <slot0>gpe:births_in_country</slot0>
+    <slot1>per:date_of_birth</slot1>
+  </query>
+  <query id="CS14_ENG_249_6c80ec8d-6354-34af-8fac-2d9d7de665c1">
+    <name>Toyoda</name>
+    <docid>NYT_ENG_20091002.0100</docid>
+    <beg>4319</beg>
+    <end>4325</end>
+    <enttype>per</enttype>
+    <slot>per:age</slot>
+    <slot0>gpe:residents_of_city</slot0>
+    <slot1>per:age</slot1>
+  </query>
+</query_set>

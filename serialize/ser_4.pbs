@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /homes/gws/nhawkins/KBP2015-Slotfilling-Multir
+
+sbt "run-main
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.SerializeColdStartCorpus 7500 39124"

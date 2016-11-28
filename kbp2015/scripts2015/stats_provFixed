@@ -1,0 +1,12 @@
+combine r1 (line count, too long count, max prov length): 24328 751 296
+combine r2 (line count, too long count, max prov length): 8224 241 391
+combine (line count, too long count): 32552 992
+multir r1 (line count, too long count, max prov length): 7459 634 296
+multir r2 (line count, too long count, max prov length): 904 86 391
+multir (line count, too long count): 8363 720
+implie r1 (line count, too long count, max prov length): 17337 96 254
+implie r2 (line count, too long count, max prov length): 1962 24 261
+implie (line count, too long count): 19299 120
+openie r1 (line count, too long count, max prov length): 2569 59 288
+openie r2 (line count, too long count, max prov length): 477 7 288
+openie (line count, too long count): 3046 66
